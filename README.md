@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nyonnyonyo
 - 👀 I’m interested in Web Design/AI
-- 🌱 I’m currently learning CSS
+- 🌱 I’m currently learning JS
 - 📫 Mail me at reyna.isabel.isabel@gmail.com 
 
 <!---
