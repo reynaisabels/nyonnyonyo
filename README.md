@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nyonnyonyo
-- 👀 I’m interested in Web Design/AI
-- 🌱 I’m currently learning JS
+- 👀 I’m interested in Web Design
+- 🌱 I’m currently learning JS, C#
 - 📫 Mail me at reyna.kurniawan@gmail.com 
 
 <!---
